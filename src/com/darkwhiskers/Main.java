@@ -1,4 +1,4 @@
-package com.darkwhiskers.poo_clase01;
+package com.darkwhiskers;
 
 import java.util.Scanner; // Librería para usar objeto Scanner, que graba captura por pantalla.
 import java.io.PrintStream; // Librería para mostrar caracteres especiales.
