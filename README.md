@@ -445,14 +445,7 @@ public class Main {
 2. **Abrir en NetBeans:**
    Ir a *File → Open Project* y seleccionar la carpeta clonada.
 
-3. **Configurar encoding (tildes en consola):**
-   Ir a *Run → Set Project Configuration → Customize → Run*
-   y en **VM Options** escribir:
-   ```
-   -Dfile.encoding=UTF-8
-   ```
-
-4. **Generar Javadoc:**
+3. **Generar Javadoc:**
    ```bash
    javadoc -d doc -encoding UTF-8 Main.java
    ```
