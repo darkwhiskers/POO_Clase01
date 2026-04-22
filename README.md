@@ -439,7 +439,7 @@ public class Main {
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/darkwhiskers/Clase01.git
+   git clone https://github.com/darkwhiskers/POO_Clase01.git
    ```
 
 2. **Abrir en NetBeans:**
