@@ -470,5 +470,6 @@ public class Main {
 
 ---
 
-| *Realizado por **Miguel Silva C.** -* \
-| *Licencia: CC BY-NC-ND 4.0*
+| Realizado por **Miguel Silva C.** - \
+| GitHub: [github.com/darkwhiskers](https://github.com/darkwhiskers) \
+| Licencia: *CC BY-NC-ND 4.0*
